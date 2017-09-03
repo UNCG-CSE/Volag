@@ -13,3 +13,5 @@ Take airline delay causes and times, correlate it with weather data and use this
 [Flight delay causes 2015](https://www.kaggle.com/usdot/flight-delays)
 
 [Python ML analysis of flight delays 2015](https://github.com/lezandar/flights/blob/master/Flight_delays_20Aug17_for_git_hub.ipynb)
+
+[15 minute precipitation data](ftp://ftp.ncdc.noaa.gov/pub/data/15min_precip-3260/)
