@@ -1,3 +1,4 @@
 *.swp
 .ipynb_checkpoints/
-datasets/
+data/flight_delays_2015/
+data/weather/
