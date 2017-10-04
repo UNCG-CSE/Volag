@@ -2,3 +2,4 @@
 .ipynb_checkpoints/
 data/flight_delays_2015/
 data/weather/
+data/flights_weather.csv
