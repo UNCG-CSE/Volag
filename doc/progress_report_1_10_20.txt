@@ -1,0 +1,16 @@
+Volag: Team Progress Report
+
+Progress Check #1 - 10/4/17
+Progress Check #2 - 10/20/17
+
+Alex Hahn
+    Target Goals
+        Analyze correlations between flight and weather features (heatmap and correlation matrix)
+            Trim out features that will not be useful in our analysis
+        Implement Naive Bayes classification (class : {delayed | non-delayed}, features = {temp, wdsp, dewp, etc.})
+        Create other visualizations (flight delays on a map, weather patterns on a map, flight delay v. weather feature)
+        Continue looking for more granular weather data
+
+    Achieved Goals/Activities
+        @TODO
+
