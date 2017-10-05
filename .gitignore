@@ -1,3 +1,4 @@
+*.DS_STORE
 *.swp
 .ipynb_checkpoints/
 data/flight_delays_2015/
