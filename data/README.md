@@ -7,12 +7,14 @@ Datasets that were found from outside sources.
 ### 2015 Flight Data
 <https://www.kaggle.com/usdot/flight-delays>: this dataset contains 3 files.
 * data/flight_delays_2015/airlines.csv contains the info for all the airlines in the dataset.
+
 	| column name	| description			| data type	|
 	|---------------|-----------------------|-----------|
 	| IATA_CODE		| Location Identifier	| String 	|
 	| AIRLINE		| Airport's Name		| String	|
 
 * data/flight_delays_2015/airports.csv contains the info for all the airports in the dataset.
+
 	| column name	| description			| data type	|
 	|---------------|-----------------------|-----------|
 	| IATA_CODE		| Location Identifier	| String 	|
@@ -24,6 +26,7 @@ Datasets that were found from outside sources.
 	| LONGITUDE | Longitude of the Airport | Float |
 
 * data/flight_delays_2015/flights.csv contains the info for all the flights in the dataset, this file is the bulk of the data.
+
     | column name	| description			| data type	|
 	|---------------|-----------------------|-----------|
     |YEAR     |Year of the Flight Trip|Integer|
@@ -68,6 +71,7 @@ Corrected the following rows in airports file (were missing latitude/longitude):
 	```sql
 	SELECT * FROM [bigquery-public-data:noaa_gsod.stations]
 	```
+
 	| column name	| description			| data type	|
 	|---------------|-----------------------|-----------|
 	|usaf|Air Force station ID|STRING|
