@@ -24,3 +24,21 @@ Alex Hahn
 
     Achieved Goals/Activities
         Cleanup and document data_munging notebook
+
+Cory Sabol
+    Target Goals
+        1. Continue to analyze importance of features
+        2. Label data as delayed or not based on delay time threshold
+        3. Pairplot variables thought significant with category of delay type
+        4. Train decision tree model on variables thought to be significant
+        5. Retrain model on flights which are either delayed by weather or not delayed at all
+
+    Acheived Goals
+        1. Determined that scheduled departure time, origin temp, origin percip,
+           origin visibility were all pretty important variables, which seemed to
+           correlate well with flights that were delayed due to weather.
+        2. Labeled data with two new columns, delay_type (largest factor in delay time)
+           and label (DELAYED or NOTDELAYED).
+        3. Pairplot was generated on important variables.
+        4. Decision tree was trained on aforementioned variables, 74% accuracy
+           was acheived.
