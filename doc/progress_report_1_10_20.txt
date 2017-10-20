@@ -14,16 +14,17 @@ Alex Hahn
     Achieved Goals/Activities
         @TODO
 
-Alex Hahn
+Travis Cox
     Target Goals
         Cleanup and document data_munging notebook
         Continue looking for improved weather data (more than once per day)
         Train a SVM using flight and weather data
-        Document data files (sources, column explanations and guidance on reading)
         Check merged flight data for missing information
 
     Achieved Goals/Activities
         Cleanup and document data_munging notebook
+        Check merged flight data for missing information
+        Document data files (sources, column explanations and guidance on reading)
 
 Cory Sabol - Work primarily in the decision tree ipynb
     Target Goals
