@@ -25,7 +25,7 @@ Alex Hahn
     Achieved Goals/Activities
         Cleanup and document data_munging notebook
 
-Cory Sabol
+Cory Sabol - Work primarily in the decision tree ipynb
     Target Goals
         1. Continue to analyze importance of features
         2. Label data as delayed or not based on delay time threshold
