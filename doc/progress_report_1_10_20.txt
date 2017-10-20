@@ -29,6 +29,7 @@ Travis Cox
         Cleanup and document data_munging notebook
         Check merged flight data for missing information
         Document data files (sources, column explanations and guidance on reading)
+        Began analysis of data, by separating delayed flights and comparing to set as a whole.
 
 Cory Sabol - Work primarily in the decision tree ipynb
     Target Goals
