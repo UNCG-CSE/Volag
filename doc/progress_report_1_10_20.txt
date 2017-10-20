@@ -12,7 +12,11 @@ Alex Hahn
         Continue looking for more granular weather data
 
     Achieved Goals/Activities
-        @TODO
+        Created heatmaps and correlation tables to analyze flight features vs. weather features
+        Cleaned up weather flight and weather data in the correlation notebook
+        Documented Naive Bayes machine learning algorithm
+            Began implementing Naive Bayes classification model
+        Created new visualizations in plotly that will help us better understand our data and spot trends
 
 Travis Cox
     Target Goals
