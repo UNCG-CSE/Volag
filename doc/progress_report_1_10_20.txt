@@ -32,6 +32,11 @@ Cory Sabol - Work primarily in the decision tree ipynb
         3. Pairplot variables thought significant with category of delay type
         4. Train decision tree model on variables thought to be significant
         5. Retrain model on flights which are either delayed by weather or not delayed at all
+        6. Look into normalizing data and fitting it to a distribution, perhaps this will help us
+           better determine which features are the most important.
+        7. Create animation of flights on map (it would be cool!)
+        8. Analyze decision tree feature importances.
+        9. Visualize decision tree if possible.
 
     Acheived Goals
         1. Determined that scheduled departure time, origin temp, origin percip,
@@ -42,3 +47,6 @@ Cory Sabol - Work primarily in the decision tree ipynb
         3. Pairplot was generated on important variables.
         4. Decision tree was trained on aforementioned variables, 74% accuracy
            was acheived.
+        5. Used a better method of splitting the data into training and testing, retrained model
+           still acheived about 74% accuracy. 
+     
