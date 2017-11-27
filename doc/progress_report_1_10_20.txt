@@ -56,3 +56,16 @@ Cory Sabol - Work primarily in the decision tree ipynb
         5. Used a better method of splitting the data into training and testing, retrained model
            still acheived about 74% accuracy. 
      
+Josh Moore
+	Target goals
+		Get definite coordinates for Corrnell weather data
+		Train forest on weather and flight data
+		Clean up random forest
+		Analyze and normalize weather data for temperature and weather patterns
+		Find more exact weather data, down to the hour for more parts of the country
+	
+	Achieved Goals
+		Wrote a web scraper for corrnell's weather data
+		Cleaned up data and formated it into CSV files
+		Began generating random trees
+
