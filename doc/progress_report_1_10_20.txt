@@ -12,18 +12,24 @@ Alex Hahn
         Continue looking for more granular weather data
 
     Achieved Goals/Activities
-        @TODO
+        Created heatmaps and correlation tables to analyze flight features vs. weather features
+        Cleaned up weather flight and weather data in the correlation notebook
+        Documented Naive Bayes machine learning algorithm
+            Began implementing Naive Bayes classification model
+        Created new visualizations in plotly that will help us better understand our data and spot trends
 
-Alex Hahn
+Travis Cox
     Target Goals
         Cleanup and document data_munging notebook
         Continue looking for improved weather data (more than once per day)
         Train a SVM using flight and weather data
-        Document data files (sources, column explanations and guidance on reading)
         Check merged flight data for missing information
 
     Achieved Goals/Activities
         Cleanup and document data_munging notebook
+        Check merged flight data for missing information
+        Document data files (sources, column explanations and guidance on reading)
+        Began analysis of data, by separating delayed flights and comparing to set as a whole.
 
 Cory Sabol - Work primarily in the decision tree ipynb
     Target Goals
@@ -50,3 +56,16 @@ Cory Sabol - Work primarily in the decision tree ipynb
         5. Used a better method of splitting the data into training and testing, retrained model
            still acheived about 74% accuracy. 
      
+Josh Moore
+	Target goals
+		Get definite coordinates for Corrnell weather data
+		Train forest on weather and flight data
+		Clean up random forest
+		Analyze and normalize weather data for temperature and weather patterns
+		Find more exact weather data, down to the hour for more parts of the country
+	
+	Achieved Goals
+		Wrote a web scraper for corrnell's weather data
+		Cleaned up data and formated it into CSV files
+		Began generating random trees
+
